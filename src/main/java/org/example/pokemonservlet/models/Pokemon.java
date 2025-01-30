@@ -14,6 +14,7 @@ public class Pokemon {
         this.type = type;
         this.color = color;
     }
+
     public int getId() {
         return id;
     }
