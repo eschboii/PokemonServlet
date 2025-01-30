@@ -48,7 +48,6 @@ public class PokemonDetail extends HttpServlet {
         }
 
         out.println("</body></html>");
-
     }
 
     @Override
