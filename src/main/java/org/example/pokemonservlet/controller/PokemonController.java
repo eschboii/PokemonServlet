@@ -1,12 +1,10 @@
-package org.example.pokemonservlet.controllers;
+package org.example.pokemonservlet.controller;
 
 import java.io.*;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
-import org.example.pokemonservlet.database.DB;
-import org.example.pokemonservlet.models.Pokemon;
 
 import static org.example.pokemonservlet.database.DB.pokemons;
 
