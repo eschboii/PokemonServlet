@@ -1,4 +1,4 @@
-package org.example.pokemonservlet.models;
+package org.example.pokemonservlet.model;
 
 public class Pokemon {
     private int id;

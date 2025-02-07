@@ -1,6 +1,6 @@
 package org.example.pokemonservlet.database;
 
-import org.example.pokemonservlet.models.Pokemon;
+import org.example.pokemonservlet.model.Pokemon;
 
 public class DB {
 
